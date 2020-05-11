@@ -1,7 +1,5 @@
 # WeChat_Matrix
 微信卡顿，异常处理Demo
-iOS Demo在文件夹
-/samples/sample-iOS/MatrixDemo
 
 
 卡顿开始方法在
